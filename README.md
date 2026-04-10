@@ -1,13 +1,8 @@
-# Ruoyu.W
+# Ruoyu.W's SketchPad
 
-This repository contains the starter files for a personal website.
 
-## Included files
-- `index.html` — basic homepage structure
-- `styles.css` — simple responsive page styles
-- `script.js` — starter JavaScript file
+## Ideas for next steps
+1. **Build a framework in index.html.** What I have in mind right now is a very clean main page with key info at the center, transitioning into a tree-like structure with branches of projects, interests, world-puzzle (photos from around the world), where-in-life (my current state of mind, the biggest thing right now for me as someone who has too many hobbies that I have to rotate through them)
+3. From time to time build up my font & color design in `styles.css`.
 
-## Next steps
-1. Open `index.html` in a browser to preview the page.
-2. Edit the sections in `index.html` to add your own introduction, projects, and contact details.
-3. Update `styles.css` to change colors, layout, and typography.
+
